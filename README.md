@@ -7,7 +7,7 @@ Here are some of my websites that, i created by using technologies including,
 #### Projects created using React JS
 
 1. [Playit The Movie App](https://playit-the-movie-app-git-playit-4-000nintendo.vercel.app/)
-2. Simform Contact Page
+2. [Simform Contact Page](https://simform-contact-page.vercel.app/)
 
 #### Projects created using html, css and JavaScript
 
