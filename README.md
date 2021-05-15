@@ -8,6 +8,8 @@ Here are some of my websites that, i created by using technologies including,
 
 1. [Playit The Movie App](https://playit-the-movie-app-git-playit-4-000nintendo.vercel.app/)
 2. [Simform Contact Page](https://simform-contact-page.vercel.app/)
+3. [Interactive data visualization table](https://h7158.csb.app/)
+4. [Edgenio: An Education Platform](https://edgenio.iroidsolutions.com/login)
 
 #### Projects created using html, css and JavaScript
 
